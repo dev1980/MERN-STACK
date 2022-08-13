@@ -1,0 +1,21 @@
+.addBook {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 12px;
+    margin: 12px;
+}
+
+input[type="Number"] {
+    width: 100%;
+    padding: 12px;
+    margin: 12px;
+}
+input[type="submit"] {
+    width: 100%;
+    padding: 12px;
+    margin: 12px;
+}
